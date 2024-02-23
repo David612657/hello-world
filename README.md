@@ -1,3 +1,3 @@
 # hello-world
 Just the tutorial
-My name is David Mekhaeil, I'm a sohpmore in college, and I'm nineteen.
+My name is David Mekhaeil, I'm a junior in college, and I'm twenty.
